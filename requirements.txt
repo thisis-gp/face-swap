@@ -1,6 +1,6 @@
-streamlit==1.21.0
-opencv-python-headless==4.5.5.64
-matplotlib==3.4.3
-insightface==0.7.3
+streamlit
+opencv-python-headless
+matplotlib
+insightface
 onnxruntime
-numpy==1.21.2
+numpy
